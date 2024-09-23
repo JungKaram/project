@@ -1,0 +1,53 @@
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\bin\Debug\CafeManagementVideo.exe.config
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\bin\Debug\CafeManagementVideo.exe
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\bin\Debug\CafeManagementVideo.pdb
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\bin\Debug\Guna.UI2.dll
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.csproj.AssemblyReference.cache
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.AllUserContorls.UC_Welcome.resources
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.Dashboard.resources
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.Form1.resources
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.Properties.Resources.resources
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.csproj.GenerateResource.cache
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.csproj.CoreCompileInputs.cache
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeMana.BBF2E858.Up2Date
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.exe
+C:\Users\JUNG KARAM\Desktop\파일\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.pdb
+C:\Users\admin\Desktop\C#\CafeManagementVideo\bin\Debug\CafeManagementVideo.exe.config
+C:\Users\admin\Desktop\C#\CafeManagementVideo\bin\Debug\CafeManagementVideo.exe
+C:\Users\admin\Desktop\C#\CafeManagementVideo\bin\Debug\CafeManagementVideo.pdb
+C:\Users\admin\Desktop\C#\CafeManagementVideo\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Desktop\C#\CafeManagementVideo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.AllUserContorls.UC_AddItems.resources
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.AllUserContorls.UC_PlaceOrder.resources
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.AllUserContorls.UC_RemoveItem.resources
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.AllUserContorls.UC_UpdateItems.resources
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.AllUserContorls.UC_Welcome.resources
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.Dashboard.resources
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.Form1.resources
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.Properties.Resources.resources
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeMana.BBF2E858.Up2Date
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.exe
+C:\Users\admin\Desktop\C#\CafeManagementVideo\obj\Debug\CafeManagementVideo.pdb
+C:\Users\admin\Desktop\C#\카페재고관리시스템\bin\Debug\CafeManagementVideo.exe.config
+C:\Users\admin\Desktop\C#\카페재고관리시스템\bin\Debug\CafeManagementVideo.exe
+C:\Users\admin\Desktop\C#\카페재고관리시스템\bin\Debug\CafeManagementVideo.pdb
+C:\Users\admin\Desktop\C#\카페재고관리시스템\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Desktop\C#\카페재고관리시스템\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.AllUserContorls.UC_AddItems.resources
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.AllUserContorls.UC_PlaceOrder.resources
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.AllUserContorls.UC_RemoveItem.resources
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.AllUserContorls.UC_UpdateItems.resources
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.AllUserContorls.UC_Welcome.resources
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.Dashboard.resources
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.Form1.resources
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.Properties.Resources.resources
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeMana.BBF2E858.Up2Date
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.exe
+C:\Users\admin\Desktop\C#\카페재고관리시스템\obj\Debug\CafeManagementVideo.pdb
