@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|c:\\users\\admin\\desktop\\c#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\allusercontorls\\uc_removeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:allusercontorls\\uc_removeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\allusercontorls\\uc_additems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:allusercontorls\\uc_additems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\allusercontorls\\uc_placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:allusercontorls\\uc_placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\allusercontorls\\uc_placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D49B7-ABCC-4769-B129-96724F17F1C9}|CafeManagementVideo.csproj|solutionrelative:allusercontorls\\uc_placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_RemoveItem.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\AllUserContorls\\UC_RemoveItem.cs",
+              "RelativeDocumentMoniker": "AllUserContorls\\UC_RemoveItem.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\CafeManagementVideo\\AllUserContorls\\UC_RemoveItem.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\CafeManagementVideo\\AllUserContorls\\UC_RemoveItem.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:40:27.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:33:07.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\function.cs",
+              "RelativeDocumentMoniker": "function.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\function.cs",
+              "RelativeToolTip": "function.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:29:39.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-19T07:29:30.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_PlaceOrder.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\AllUserContorls\\UC_PlaceOrder.cs",
+              "RelativeDocumentMoniker": "AllUserContorls\\UC_PlaceOrder.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\AllUserContorls\\UC_PlaceOrder.cs",
+              "RelativeToolTip": "AllUserContorls\\UC_PlaceOrder.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:38:18.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_PlaceOrder.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\AllUserContorls\\UC_PlaceOrder.cs",
+              "RelativeDocumentMoniker": "AllUserContorls\\UC_PlaceOrder.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\CafeManagementVideo\\AllUserContorls\\UC_PlaceOrder.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\CafeManagementVideo\\AllUserContorls\\UC_PlaceOrder.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:36:40.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_AddItems.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\AllUserContorls\\UC_AddItems.cs",
+              "RelativeDocumentMoniker": "AllUserContorls\\UC_AddItems.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\CafeManagementVideo\\AllUserContorls\\UC_AddItems.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\CafeManagementVideo\\AllUserContorls\\UC_AddItems.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:35:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\CafeManagementVideo\\Dashboard.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\CafeManagementVideo\\Dashboard.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:35:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\CafeManagementVideo\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\CafeManagementVideo\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:29:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:05:03.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\\uCE74\uD398\uC7AC\uACE0\uAD00\uB9AC\uC2DC\uC2A4\uD15C\\DGVPrinter.cs",
+              "RelativeToolTip": "DGVPrinter.cs",
+              "ViewState": "AQIAABEPAAAAAAAAAAAowCoPAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:33:13.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

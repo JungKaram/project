@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\C#\\RM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\reports\\rptmenu.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:reports\\rptmenu.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|C:\\Users\\admin\\Desktop\\C#\\RM\\reports\\frmsalebycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:reports\\frmsalebycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\frmprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:frmprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\view\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:view\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|C:\\Users\\admin\\Desktop\\C#\\RM\\view\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:view\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|C:\\Users\\admin\\Desktop\\C#\\RM\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|C:\\Users\\admin\\Desktop\\C#\\RM\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\view\\frmcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:view\\frmcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\view\\frmkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:view\\frmkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:view\\frmstaffview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\model\\frmcheckout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:model\\frmcheckout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\model\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:model\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\model\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:model\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\frmprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:frmprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|c:\\users\\admin\\desktop\\c#\\rm\\reports\\rptmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:reports\\rptmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|C:\\Users\\admin\\Desktop\\C#\\RM\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69839C18-2CF4-419C-A32F-86763421F681}|RM.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmStaffView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmStaffView.cs",
+              "RelativeDocumentMoniker": "View\\frmStaffView.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmStaffView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "View\\frmStaffView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:55:10.23Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTableView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmTableView.cs",
+              "RelativeDocumentMoniker": "View\\frmTableView.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmTableView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "View\\frmTableView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:55:08.582Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmMain.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "frmMain.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:18:55.405Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA5wFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:27:41.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReports.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmReports.cs",
+              "RelativeDocumentMoniker": "View\\frmReports.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmReports.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "View\\frmReports.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:18:47.987Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReports.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmReports.cs",
+              "RelativeDocumentMoniker": "View\\frmReports.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmReports.cs",
+              "RelativeToolTip": "View\\frmReports.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:49:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrint.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmPrint.cs",
+              "RelativeDocumentMoniker": "frmPrint.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmPrint.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "frmPrint.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:49:25.82Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rptMenu.rpt",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Reports\\rptMenu.rpt",
+              "RelativeDocumentMoniker": "Reports\\rptMenu.rpt",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Reports\\rptMenu.rpt",
+              "RelativeToolTip": "Reports\\rptMenu.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-19T04:56:44.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmProductView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmProductView.cs",
+              "RelativeDocumentMoniker": "View\\frmProductView.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmProductView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "View\\frmProductView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:55:11.589Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmKitchenView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmKitchenView.cs",
+              "RelativeDocumentMoniker": "View\\frmKitchenView.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmKitchenView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "View\\frmKitchenView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:55:12.579Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCategoryView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmCategoryView.cs",
+              "RelativeDocumentMoniker": "View\\frmCategoryView.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\View\\frmCategoryView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "View\\frmCategoryView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:55:13.461Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCheckout.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCheckout.Designer.cs",
+              "RelativeDocumentMoniker": "Model\\frmCheckout.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCheckout.Designer.cs",
+              "RelativeToolTip": "Model\\frmCheckout.Designer.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowD8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:42:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmCategoryAdd.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCategoryAdd.cs",
+              "RelativeDocumentMoniker": "Model\\frmCategoryAdd.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCategoryAdd.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Model\\frmCategoryAdd.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:43:29.969Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmCheckout.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCheckout.cs",
+              "RelativeDocumentMoniker": "Model\\frmCheckout.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCheckout.cs",
+              "RelativeToolTip": "Model\\frmCheckout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:42:48.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmCheckout.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCheckout.cs",
+              "RelativeDocumentMoniker": "Model\\frmCheckout.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCheckout.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Model\\frmCheckout.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:42:36.207Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCategoryAdd.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCategoryAdd.cs",
+              "RelativeDocumentMoniker": "Model\\frmCategoryAdd.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmCategoryAdd.cs",
+              "RelativeToolTip": "Model\\frmCategoryAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:44:21.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmBillList.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmBillList.cs",
+              "RelativeDocumentMoniker": "Model\\frmBillList.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmBillList.cs",
+              "RelativeToolTip": "Model\\frmBillList.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:37:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmBillList.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmBillList.cs",
+              "RelativeDocumentMoniker": "Model\\frmBillList.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Model\\frmBillList.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Model\\frmBillList.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:35:58.499Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmPrint.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmPrint.cs",
+              "RelativeDocumentMoniker": "frmPrint.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmPrint.cs",
+              "RelativeToolTip": "frmPrint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:02:08.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "rptMenu.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Reports\\rptMenu.cs",
+              "RelativeDocumentMoniker": "Reports\\rptMenu.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Reports\\rptMenu.cs",
+              "RelativeToolTip": "Reports\\rptMenu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:56:24.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmHome.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmHome.cs",
+              "RelativeDocumentMoniker": "frmHome.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\frmHome.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "frmHome.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:35:32.294Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "37a1b341-0eb4-44ff-8fbe-8faff9f52129",
+        "Display": 1,
+        "X": 246,
+        "Y": 71,
+        "Width": 1321,
+        "Height": 797,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSaleByCategory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\C#\\RM\\Reports\\frmSaleByCategory.cs",
+              "RelativeDocumentMoniker": "Reports\\frmSaleByCategory.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\C#\\RM\\Reports\\frmSaleByCategory.cs",
+              "RelativeToolTip": "Reports\\frmSaleByCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:56:57.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
